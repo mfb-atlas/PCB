@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "atlas.kicad_pro",
+    "filename": "main_board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -382,7 +382,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "atlas.net",
+      "netlist": "main_board.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
